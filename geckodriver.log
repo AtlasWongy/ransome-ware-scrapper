@@ -1151,3 +1151,319 @@ JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILU
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1663668957174	geckodriver	INFO	Listening on 127.0.0.1:61286
+1663668960268	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileZWjZ2d"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663668960825	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileZWjZ2d\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663668963340	Marionette	INFO	Listening on port 61294
+1663668963475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663668982854	Marionette	INFO	Stopped listening on port 61294
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663669057528	geckodriver	INFO	Listening on 127.0.0.1:61331
+1663669060614	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofile2ylA6F"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663669061119	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofile2ylA6F\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663669063333	Marionette	INFO	Listening on port 61340
+1663669063809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663669089465	Marionette	INFO	Stopped listening on port 61340
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663669151435	geckodriver	INFO	Listening on 127.0.0.1:61418
+1663669154511	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofile7u5lj1"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663669154989	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofile7u5lj1\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663669157498	Marionette	INFO	Listening on port 61427
+1663669157720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663669178984	Marionette	INFO	Stopped listening on port 61427
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663669812491	geckodriver	INFO	Listening on 127.0.0.1:61525
+1663669815573	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofile9wN1Ge"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663669816170	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofile9wN1Ge\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663669818673	Marionette	INFO	Listening on port 61537
+1663669818790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663669855226	Marionette	INFO	Stopped listening on port 61537
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663669866948	geckodriver	INFO	Listening on 127.0.0.1:61589
+1663669870038	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofilee7OU1P"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663669870542	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofilee7OU1P\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663669872816	Marionette	INFO	Listening on port 61597
+1663669873211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663669903269	Marionette	INFO	Stopped listening on port 61597
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663669926352	geckodriver	INFO	Listening on 127.0.0.1:61625
+1663669929436	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileLCaxKl"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663669929931	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileLCaxKl\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663669932146	Marionette	INFO	Listening on port 61635
+1663669932632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663669934053	Marionette	INFO	Stopped listening on port 61635
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663669938748	geckodriver	INFO	Listening on 127.0.0.1:61651
+1663669941844	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofilekyRQZz"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663669942350	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofilekyRQZz\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663669944920	Marionette	INFO	Listening on port 61659
+1663669945045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663669961078	Marionette	INFO	Stopped listening on port 61659
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663670187181	geckodriver	INFO	Listening on 127.0.0.1:61705
+1663670190244	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileqB5AMS"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663670190744	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileqB5AMS\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663670193040	Marionette	INFO	Listening on port 61713
+1663670193425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663670215842	Marionette	INFO	Stopped listening on port 61713
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663670258533	geckodriver	INFO	Listening on 127.0.0.1:61758
+1663670261611	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofilejpmGB8"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663670262109	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofilejpmGB8\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663670264172	Marionette	INFO	Listening on port 61766
+1663670264303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663670282670	Marionette	INFO	Stopped listening on port 61766
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1663670375408	geckodriver	INFO	Listening on 127.0.0.1:61807
+1663670378481	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileDt9OOY"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663670378998	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileDt9OOY\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663670381149	Marionette	INFO	Listening on port 61815
+1663670381672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663670405007	Marionette	INFO	Stopped listening on port 61815
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1663670828393	geckodriver	INFO	Listening on 127.0.0.1:61961
+1663670831476	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofilefiqnuq"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663670832001	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofilefiqnuq\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663670834092	Marionette	INFO	Listening on port 61971
+1663670834165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663670857833	Marionette	INFO	Stopped listening on port 61971
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663671033323	geckodriver	INFO	Listening on 127.0.0.1:62012
+1663671036424	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileNaj9Lu"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663671036973	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileNaj9Lu\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663671039109	Marionette	INFO	Listening on port 62020
+1663671039607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663671187169	Marionette	INFO	Stopped listening on port 62020
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663671190776	geckodriver	INFO	Listening on 127.0.0.1:62048
+1663671193856	mozrunner::runner	INFO	Running command: "C:\\Users\\atlas\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileaeO8ET"
+console.log: "TorConnect: init()"
+console.log: "TorConnect: Entering Initial state"
+console.log: "TorConnect: Observed profile-after-change"
+console.log: "TorConnect: Observing topic 'TorProcessExited'"
+console.log: "TorConnect: Observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: Observing topic 'torsettings:ready'"
+console.log: "TorSettings: Observed profile-after-change"
+1663671194413	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: Will load after bootstrap => [about:blank]"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\atlas\\AppData\\Local\\Temp\\rust_mozprofileaeO8ET\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+1663671196827	Marionette	INFO	Listening on port 62056
+1663671197034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663671228419	Marionette	INFO	Stopped listening on port 62056
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
