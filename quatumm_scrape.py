@@ -6,8 +6,6 @@ timeout = 10
 
 def scrape_quatumm(driver, data_map):
 
-    
-
 #    for i in range(1000, 5000):
 #     driver.get('http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion/' + str(i))
     url = "http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion"
